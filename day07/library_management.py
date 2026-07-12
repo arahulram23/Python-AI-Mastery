@@ -186,8 +186,4 @@ def menu():
             print("❌ Please enter numbers only.")
 
 
-# ===============================
-# Program Starts Here
-# ===============================
-
 menu()
