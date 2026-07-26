@@ -4,4 +4,4 @@ __pycache__/
 .vscode/
 .env
 .DS_Store
-day10/patterns.md
+./day10/patterns.md
